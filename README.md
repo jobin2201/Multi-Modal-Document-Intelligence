@@ -68,7 +68,7 @@ This change allowed the system to generate answers reliably without interruption
 
 🎬 **Project Demonstration Video**
 
-[▶️ Click here to watch the live demo](Multi-Modal-Document-Intelligence/Final%20Project%20.mp4)
+[▶️ Click here to watch the live demo](Final Project .mp4)
 
 
 ## 🧠 Outcome
