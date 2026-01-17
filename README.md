@@ -64,6 +64,12 @@ This change allowed the system to generate answers reliably without interruption
 
 ---
 
+## 🎥 Live Demo
+
+🎬 **Project Demonstration Video**
+
+[▶️ Click here to watch the live demo](Multi-Modal-Document-Intelligence/Final%20Project%20.mp4)
+
 
 ## 🧠 Outcome
 This project reflects real-world challenges in multi-modal document intelligence, emphasizing system design, reasoning, and engineering rigor over simple model usage. The solution demonstrates how complex requirements can be translated into an efficient and extensible RAG-based architecture.
