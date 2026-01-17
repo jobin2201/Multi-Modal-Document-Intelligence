@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+sentence-transformers
+faiss-cpu
+pymupdf
+pytesseract
+pillow
+camelot-py
+opencv-python
+streamlit
+python-dotenv
